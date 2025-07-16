@@ -1,3 +1,9 @@
+NAME - D.S.A.V.Krishna Reddy
+REG NO-12207019
+Name - Kotla Sree Manju Keerthana
+REG NO - 12219623
+
+
 # 🌦️ Weather App
 
 A modern weather application built with **React.js**, allowing users to search and view real-time weather data by city. Features include search history, error handling, and dynamic weather display.
