@@ -25,6 +25,8 @@ A modern weather application built with **React.js**, allowing users to search a
 
 - Node.js and npm installed
 - OpenWeatherMap API key
+![WhatsApp Image 2025-07-16 at 10 46 51_235b44ef](https://github.com/user-attachments/assets/edbc8d95-2648-4f87-9f34-c249e78f1b1c
+- 
 
 ### Installation
 
@@ -33,4 +35,3 @@ git clone https://github.com/your-username/weather-app.git
 cd weather-app
 npm install
 
-![WhatsApp Image 2025-07-16 at 10 46 51_235b44ef](https://github.com/user-attachments/assets/edbc8d95-2648-4f87-9f34-c249e78f1b1c)
